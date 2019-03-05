@@ -13,5 +13,3 @@ Output Format: AUD 100.00 = USD 83.71
 Executing Test Cases: %> mvn test
 
 Exiting the Application: %> exit
-
-Copyright: Coded & Submitted by "Akhilesh Singh" for ANZ coding round.
