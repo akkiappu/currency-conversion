@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="company-structure-spring-security-oauth2-authorities" />
+        <module name="core-banking-solution" />
+        <module name="fx-calculator" />
+        <module name="reactive-rest-api" />
+        <module name="reactive-web" />
+        <module name="Ticketing-System" />
+        <module name="userFront" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="company-structure-spring-security-oauth2-authorities" target="1.8" />
+      <module name="core-banking-solution" target="1.8" />
+      <module name="fx-calculator" target="1.8" />
+      <module name="fx-calculator-old" target="1.8" />
+      <module name="reactive" target="1.5" />
+      <module name="reactive-rest-api" target="1.8" />
+      <module name="reactive-web" target="1.8" />
+      <module name="Ticketing-System" target="1.8" />
+      <module name="userFront" target="1.8" />
+      <module name="webflux-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

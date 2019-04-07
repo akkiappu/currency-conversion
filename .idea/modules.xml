@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Code-Coding-Coded.iml" filepath="$PROJECT_DIR$/Code-Coding-Coded.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ezetap/Ticketing-System/Ticketing-System/Ticketing-System.iml" filepath="$PROJECT_DIR$/../ezetap/Ticketing-System/Ticketing-System/Ticketing-System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MVC/company-structure-spring-security-oauth2-authorities-master/company-structure-spring-security-oauth2-authorities.iml" filepath="$PROJECT_DIR$/../MVC/company-structure-spring-security-oauth2-authorities-master/company-structure-spring-security-oauth2-authorities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MVC/core-banking-solution/core-banking-solution.iml" filepath="$PROJECT_DIR$/../MVC/core-banking-solution/core-banking-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fx-calculator/fx-calculator.iml" filepath="$PROJECT_DIR$/../fx-calculator/fx-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MVC/reactive-rest-api/reactive-rest-api.iml" filepath="$PROJECT_DIR$/../MVC/reactive-rest-api/reactive-rest-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MVC/okta-spring-webflux-react-example-master/reactive-web/reactive-web.iml" filepath="$PROJECT_DIR$/../MVC/okta-spring-webflux-react-example-master/reactive-web/reactive-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MVC/Online-Banking-with-Java-Spring-Boot-Angular-2-master/UserFront/userFront.iml" filepath="$PROJECT_DIR$/../MVC/Online-Banking-with-Java-Spring-Boot-Angular-2-master/UserFront/userFront.iml" />
+    </modules>
+  </component>
+</project>

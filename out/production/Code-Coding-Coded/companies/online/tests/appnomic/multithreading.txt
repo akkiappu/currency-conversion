@@ -1,0 +1,7 @@
+Consider the following programs. Which of them will be most benefited by being implemented as a multi-threaded program?
+Pick the closest option
+•	  A program that computes multiplication of two matrices (inputs and outputs fit in memory)
+•	  A program that computes multiplication of n matrices (inputs and outputs fit in memory)
+•	  A program that fetches the latest time from a time server over the network
+•	  A program that takes a number of URLs as inputs from the user, fetches them over the network, and saves them to the local disk
+•	  A program that recursively computes the n-th number in the Fibonacci series

@@ -1,0 +1,42 @@
+Design Patterns
+
+1. Which design pattern is most appropriate when a decision needs to be taken at the time a class needs to be instantiated?
+
+Pick the closest option
+ Bridge
+ Composite
+ Factory Method
+ Command
+ None of the above
+
+
+2. Adapter vs Decorator
+Which of the following statements about adapter and decorator are true?
+
+Pick all that apply
+ The adapter adds no functionalities to the adaptee class, whereas the Decorator extends the functionality of the object
+ The adapter is a creational pattern, whereas the decorator is a structural design pattern
+ Both introduce a level of indirection between a client class and a class it uses
+ Decorator allows you to provide a higher level interface to a subsystem of multiple other classes, whereas an Adapter is used with a single class
+ Adapter can be used with remote objects, whereas Decorator cannot
+
+3. Virtual Constructor
+Which of the follow design patterns can be called a virtual constructor, and is used to define an interface for creating an object, but letting the subclass decide at runtime which class to instantiate?
+
+Pick the closest option
+ Builder
+ Abstract Factory
+ Factory Method
+ Prototype
+ None of the above
+
+
+4. Publish-Subscribe
+In the Publish-Subscribe messaging model, the subscribers register themselves in a topic and are notified when new messages arrive to the topic. Which pattern best describes the subscriber code?
+
+Pick the closest option
+ Adapter
+ Notifier
+ Observer
+ State
+ Proxy

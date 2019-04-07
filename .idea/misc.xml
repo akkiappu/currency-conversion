@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../MVC/core-banking-solution/pom.xml" />
+        <option value="$PROJECT_DIR$/../MVC/Online-Banking-with-Java-Spring-Boot-Angular-2-master/UserFront/pom.xml" />
+        <option value="$PROJECT_DIR$/../MVC/company-structure-spring-security-oauth2-authorities-master/pom.xml" />
+        <option value="$PROJECT_DIR$/../fxcalculator/pom.xml" />
+        <option value="$PROJECT_DIR$/../fx-calculator1/pom.xml" />
+        <option value="$PROJECT_DIR$/../fx-calculator/pom.xml" />
+        <option value="$PROJECT_DIR$/../MVC/okta-spring-webflux-react-example-master/reactive-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../MVC/reactive-rest-api/pom.xml" />
+        <option value="$PROJECT_DIR$/../ezetap/Ticketing-System/Ticketing-System/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
