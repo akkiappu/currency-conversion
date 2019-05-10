@@ -5,9 +5,6 @@ package exception.handling.overridingrules;
  * Below code snippet will give compile time error on line no 18
  */
 
-import java.io.FileNotFoundException;
-import java.io.IOException;
-
 class Parent{
     void m1(){
 

@@ -1,7 +1,5 @@
 package string.programs.hackerrank;
 
-import java.util.Scanner;
-
 public class StringTokens {
     public static void main(String[] args) {
         //matching the regular expression [A-Za-z !,?._'@]+

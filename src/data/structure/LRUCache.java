@@ -6,10 +6,11 @@ of a key. But remove a key from the Deque using
 remove() , it takes O(N) time. This can be 
 optimized by storing a reference (iterator) to 
 each key in a hash map. */
-import java.util.Deque; 
-import java.util.HashSet; 
-import java.util.LinkedList; 
-import java.util.Iterator; 
+
+import java.util.Deque;
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.LinkedList;
 public class LRUCache { 
 	// store keys of cache 
 	static Deque<Integer> dq; 

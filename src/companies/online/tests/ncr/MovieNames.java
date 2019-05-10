@@ -22,6 +22,7 @@ public class MovieNames {
     }
 
     public String[] get(String movie) {
+
         List<String> movieList = new ArrayList<>();
         String urlData = readDataFromURL(movieURL + movie);
         if (!urlData.isEmpty()) {

@@ -1,8 +1,6 @@
 package string.programs;
 
-import java.util.*;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
+import java.util.Scanner;
 
 public class StringPractice {
     public static void main(String[] args) {

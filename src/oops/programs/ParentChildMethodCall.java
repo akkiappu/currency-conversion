@@ -1,8 +1,5 @@
 package oops.programs;
 
-import java.util.Arrays;
-import java.util.List;
-
 interface  inter{
 
 }

@@ -1,6 +1,8 @@
 package companies.online.tests.appnomic;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.Set;
 
 class UniqueImages {
     public static class Image {
